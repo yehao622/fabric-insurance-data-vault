@@ -1,0 +1,13 @@
+claim_number,policy_number,vin,claimant_customer_id,incident_date,reported_date,claim_status,loss_type,claim_amount,reserve_amount,fraud_indicator,source_system
+CLM-1001,POL-2001,VIN-3001,CUST-4001,2026-01-04,2026-01-05,Open,Collision,5400.00,1200.00,N,claims_sys
+CLM-1002,POL-2002,VIN-3002,CUST-4002,2026-01-07,2026-01-08,Closed,Theft,8600.00,0.00,Y,claims_sys
+CLM-1003,POL-2003,VIN-3003,CUST-4003,2026-01-09,2026-01-10,Open,Glass,780.00,200.00,N,claims_sys
+CLM-1004,POL-2001,VIN-3001,CUST-4001,2026-01-12,2026-01-15,Investigating,Collision,15200.00,5000.00,Y,claims_sys
+CLM-1005,POL-2004,VIN-3004,CUST-4004,2026-01-14,2026-01-16,Closed,Fire,13200.00,0.00,N,claims_sys
+CLM-1006,POL-2005,VIN-3005,CUST-4005,2026-01-18,2026-01-19,Open,Collision,2300.00,700.00,N,claims_sys
+CLM-1007,POL-2006,VIN-3006,CUST-4006,2026-01-20,2026-01-22,Open,Weather,4100.00,1000.00,N,claims_sys
+CLM-1008,POL-2002,VIN-3002,CUST-4002,2026-01-23,2026-01-25,Investigating,Theft,9400.00,3200.00,Y,claims_sys
+CLM-1009,POL-2007,VIN-3007,CUST-4007,2026-01-25,2026-01-26,Closed,Collision,1200.00,0.00,N,claims_sys
+CLM-1010,POL-2008,VIN-3008,CUST-4008,2026-01-27,2026-01-29,Open,Liability,6700.00,1800.00,N,claims_sys
+CLM-1011,POL-2004,VIN-3004,CUST-4004,2026-01-28,2026-01-30,Investigating,Fire,19800.00,6000.00,Y,claims_sys
+CLM-1012,POL-2005,VIN-3005,CUST-4005,2026-01-30,2026-02-01,Closed,Collision,1500.00,0.00,N,claims_sys

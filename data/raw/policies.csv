@@ -1,0 +1,9 @@
+policy_number,customer_id,policy_start_date,policy_end_date,coverage_type,deductible_amount,underwriting_status,state_code,source_system
+POL-2001,CUST-4001,2025-06-01,2026-05-31,Full,500.00,Active,MA,policy_sys
+POL-2002,CUST-4002,2025-07-15,2026-07-14,Full,750.00,Active,CT,policy_sys
+POL-2003,CUST-4003,2025-03-01,2026-02-28,Liability,1000.00,Active,RI,policy_sys
+POL-2004,CUST-4004,2025-10-01,2026-09-30,Full,500.00,Active,MA,policy_sys
+POL-2005,CUST-4005,2025-11-20,2026-11-19,Liability,1500.00,Active,NH,policy_sys
+POL-2006,CUST-4006,2025-12-10,2026-12-09,Full,500.00,Suspended,MA,policy_sys
+POL-2007,CUST-4007,2025-08-05,2026-08-04,Comprehensive,1000.00,Active,NY,policy_sys
+POL-2008,CUST-4008,2025-09-12,2026-09-11,Full,750.00,Active,MA,policy_sys

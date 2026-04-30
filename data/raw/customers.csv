@@ -1,0 +1,9 @@
+customer_id,full_name,date_of_birth,phone_number,email,address_line_1,city,state_code,postal_code,risk_segment,source_system
+CUST-4001,Alicia Torres,1986-02-14,5085550101,alicia.torres@example.com,12 Maple St,Worcester,MA,01604,Low,crm_sys
+CUST-4002,Brandon Lee,1979-08-22,6175550142,brandon.lee@example.com,88 Oak Ave,Boston,MA,02118,Medium,crm_sys
+CUST-4003,Carla Nguyen,1991-11-03,4015550193,carla.nguyen@example.com,44 Pine Rd,Providence,RI,02903,Low,crm_sys
+CUST-4004,Daniel Brooks,1983-05-09,5085550164,daniel.brooks@example.com,19 Cedar Ln,Springfield,MA,01103,High,crm_sys
+CUST-4005,Emily Carter,1994-12-27,6035550188,emily.carter@example.com,77 Birch Dr,Manchester,NH,03101,Medium,crm_sys
+CUST-4006,Faisal Hassan,1988-04-18,6175550177,faisal.hassan@example.com,210 Elm St,Cambridge,MA,02139,Medium,crm_sys
+CUST-4007,Grace Miller,1976-09-30,2125550135,grace.miller@example.com,5 Lake View Blvd,Albany,NY,12207,High,crm_sys
+CUST-4008,Henry Walker,1985-07-11,5085550126,henry.walker@example.com,31 Highland Ave,Worcester,MA,01609,Low,crm_sys

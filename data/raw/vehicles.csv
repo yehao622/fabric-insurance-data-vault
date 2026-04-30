@@ -1,0 +1,9 @@
+vin,policy_number,vehicle_make,vehicle_model,vehicle_year,usage_type,garaging_state,source_system
+VIN-3001,POL-2001,Toyota,Camry,2020,Personal,MA,vehicle_sys
+VIN-3002,POL-2002,Honda,Civic,2019,Personal,CT,vehicle_sys
+VIN-3003,POL-2003,Ford,Escape,2018,Personal,RI,vehicle_sys
+VIN-3004,POL-2004,Chevrolet,Equinox,2021,Commercial,MA,vehicle_sys
+VIN-3005,POL-2005,Nissan,Altima,2017,Personal,NH,vehicle_sys
+VIN-3006,POL-2006,Tesla,Model 3,2022,Personal,MA,vehicle_sys
+VIN-3007,POL-2007,Jeep,Wrangler,2016,Personal,NY,vehicle_sys
+VIN-3008,POL-2008,Subaru,Outback,2021,Personal,MA,vehicle_sys
