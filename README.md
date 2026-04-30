@@ -87,9 +87,9 @@ The project was validated in Microsoft Fabric by confirming:
 
 ## Screenshots
 
-![Pipeline orchestration](screenshots/pipeline.jpg)
-![Warehouse publish result](screenshots/publish-result-2.jpg)
-![Warehouse tables](screenshots/warehouse-3.jpg)
+![Pipeline orchestration](screenshots/pipeline.png)
+![Warehouse publish result](screenshots/publish-result-2.png)
+![Warehouse tables](screenshots/warehouse-3.png)
 
 ## Future improvements
 Possible next steps include:
